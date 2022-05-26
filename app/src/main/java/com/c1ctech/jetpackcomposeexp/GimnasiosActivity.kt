@@ -32,21 +32,21 @@ import androidx.compose.foundation.Image as Image
 
 val gimnasios_alto_selva_alegre_lista: List<Gimnasio> = listOf(
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.alto_sa_gimnasio_leo,
         "Gimnasio Leo",
         "Alto Selva Alegre 04003",
         "Lunes a Sábado 06:00 - 21:00",
         "www.gimnasioleo.com.pe"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.alto_sa_bodycorp,
         "BODY CORP",
         "Alto Selva Alegre 04000",
         "Lunes a Domingo 09:00 - 21:00",
         "body-corp-sauna-y-gimnasio.negio.site (054) 529577"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.alto_sa_clubgym_therock,
         "Club Gym The Rock",
         "Av. Las Torres 16, ASA",
         "Lunes a Domingo 08:00 - 22:00",
@@ -56,28 +56,28 @@ val gimnasios_alto_selva_alegre_lista: List<Gimnasio> = listOf(
 
 val gimnasios_cayma_lista: List<Gimnasio> = listOf(
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.cayma_smart_fit,
         "Gimnasio Smart Fit - Mall Plaza Arequipa",
         "Av. Ejército 793 3er piso C.C Mall Plaza Arequipa, Cayma 04000",
         "Lunes a Domingo 06:00 - 22:30",
         "smartfit.com.pe"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.cayma_body_training,
         "BODY TRAINING",
         "Jr. Hermanos Humbert Mz M2 Lt 7 Las Malvinas de Alto Cayma (Bs. Aires - Cayma 04018",
         "Lunes a Sábado 06:00 - 22:00",
         "989502326"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.cayma_charros,
         "Charros Gym",
         "Av. Ramón Castilla 210, Cayma 04018",
         "Lunes a Sábado 06:00 - 22:00, Domingo 06:00 - 09:00, 17:00 - 20:30",
         "959145438"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.cayma_sauna_escorpio,
         "Gimnasio Sauna Scorpio",
         "Cayma, Huayna Cápac 104, Buenos Aires",
         "Lunes a Domingo 08:00 - 22:00",
@@ -87,21 +87,21 @@ val gimnasios_cayma_lista: List<Gimnasio> = listOf(
 
 val gimnasios_cerro_colorado_lista: List<Gimnasio> = listOf(
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.cerro_colorado_revosport,
         "Revo Sport Cerro Colorado",
         "Ca. Miguel Grau 110, Arequipa 04000",
         "Lunes a Sábado 05:00 - 22:00",
         "https://www.facebook.com/revosportcerrocolorado/ (054) 583555"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.cerro_colorado_smartfit,
         "Smart Fit Arequipa Center",
         "C.C. Arequipa Center, Av. Aviación 602, Cerro Colorado 04014",
         "Lunes a Viernes 06:00 - 22:30",
         "smartfit.com.pe"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.cerro_colorado_nuevonivel_fitnes,
         "Nuevo Nivel Fitness & Health Crossfit",
         "Los Pinos, Cerro Colorado 04014",
         "Lunes a Domingo 05:30 - 21:00",
@@ -111,21 +111,21 @@ val gimnasios_cerro_colorado_lista: List<Gimnasio> = listOf(
 
 val gimnasios_yanahuara_lista: List<Gimnasio> = listOf(
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.yanahuara_gimnasio_dynamic1,
         "Gimnasio Dynamic Gym",
         "Ca. Vinatea Reynoso #110, Yanahuara 04013",
         "Lunes a Domingo 06:00 - 22:30",
         "991541698"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.yanahuara_gimnasio_club1,
         "Gimnasio Club Gym",
         "Av. Emmel 04013",
         "Lunes a Domingo 06:00 - 22:00",
         "(054) 484940"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.yanahuara_gimnasio_madrid1,
         "DG Gym Madrid",
         "Av. Victor Andrés Belaunde 409, Arequipa 04013",
         "Lunes a Domingo 06:00 - 22:00",
@@ -135,14 +135,14 @@ val gimnasios_yanahuara_lista: List<Gimnasio> = listOf(
 
 val gimnasios_socabaya_lista: List<Gimnasio> = listOf(
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.socabaya_gym_newline,
         "Gym New Line",
         "Av. Socabaya 402-424, JLByR 04012",
         "Lunes a Sábado 05:30 - 21:30",
         "984616484"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.socabaya_gilmar_gym,
         "Gilmar Gym",
         "Av. Perú 204, Arequipa 04009",
         "Lunes a Sábado 06:00 - 20:30",
@@ -152,21 +152,21 @@ val gimnasios_socabaya_lista: List<Gimnasio> = listOf(
 
 val gimnasios_paucarpata_lista: List<Gimnasio> = listOf(
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.paucarpata_gimnasio_revo1,
         "Gym Revo Sport",
         "Paucarpata 302, Arequipa 04001",
         "Lunes a Sábado 05:00 - 22:00",
         "(054) 201111"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.paucarpata_gimnasio_fire1,
         "Fire Gym",
         "Ca. Colombia con Honduras 100, Miguel Grau 4ta Etapa",
         "Lunes a Sábado 05:00 - 21:00",
         "951216782"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.paucarpata_gimnasio_ocon1,
         "Ocon Gym",
         "Arequipa 992, Paucarpat 04007",
         "Lunes a Sábado 05:00 - 22:00",
@@ -176,14 +176,14 @@ val gimnasios_paucarpata_lista: List<Gimnasio> = listOf(
 
 val gimnasios_jlb_lista: List<Gimnasio> = listOf(
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.jlb_imperius_fitness,
         "Imperium Fitness",
         "Av. Pizarro 141, José Luis Bustamante y Rivero 04009",
         "Lunes a Sábado 05:00 - 22:30",
         "942605645"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.jlb_club_gym,
         "Gimnasio Club Gym",
         "Av. Emmel con, Arequipa 04013",
         "Lunes a Sábado 06:00 - 22:00",
@@ -194,21 +194,21 @@ val gimnasios_jlb_lista: List<Gimnasio> = listOf(
 val gimnasios_lista: List<Gimnasio> = listOf(
     //ASA
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.alto_sa_gimnasio_leo,
         "Gimnasio Leo",
         "Alto Selva Alegre 04003",
         "Lunes a Sábado 06:00 - 21:00",
         "www.gimnasioleo.com.pe"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.alto_sa_bodycorp,
         "BODY CORP",
         "Alto Selva Alegre 04000",
         "Lunes a Domingo 09:00 - 21:00",
         "body-corp-sauna-y-gimnasio.negio.site (054) 529577"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.alto_sa_clubgym_therock,
         "Club Gym The Rock",
         "Av. Las Torres 16, ASA",
         "Lunes a Domingo 08:00 - 22:00",
@@ -217,28 +217,28 @@ val gimnasios_lista: List<Gimnasio> = listOf(
 
     //Cayma
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.cayma_smart_fit,
         "Gimnasio Smart Fit - Mall Plaza Arequipa",
         "Av. Ejército 793 3er piso C.C Mall Plaza Arequipa, Cayma 04000",
         "Lunes a Domingo 06:00 - 22:30",
         "smartfit.com.pe"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.cayma_body_training,
         "BODY TRAINING",
         "Jr. Hermanos Humbert Mz M2 Lt 7 Las Malvinas de Alto Cayma (Bs. Aires - Cayma 04018",
         "Lunes a Sábado 06:00 - 22:00",
         "989502326"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.cayma_charros,
         "Charros Gym",
         "Av. Ramón Castilla 210, Cayma 04018",
         "Lunes a Sábado 06:00 - 22:00, Domingo 06:00 - 09:00, 17:00 - 20:30",
         "959145438"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.cayma_sauna_escorpio,
         "Gimnasio Sauna Scorpio",
         "Cayma, Huayna Cápac 104, Buenos Aires",
         "Lunes a Domingo 08:00 - 22:00",
@@ -247,21 +247,21 @@ val gimnasios_lista: List<Gimnasio> = listOf(
 
     //Cerro Colorado
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.cerro_colorado_revosport,
         "Revo Sport Cerro Colorado",
         "Ca. Miguel Grau 110, Arequipa 04000",
         "Lunes a Sábado 05:00 - 22:00",
         "https://www.facebook.com/revosportcerrocolorado/ (054) 583555"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.cerro_colorado_smartfit,
         "Smart Fit Arequipa Center",
         "C.C. Arequipa Center, Av. Aviación 602, Cerro Colorado 04014",
         "Lunes a Viernes 06:00 - 22:30",
         "smartfit.com.pe"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.cerro_colorado_nuevonivel_fitnes,
         "Nuevo Nivel Fitness & Health Crossfit",
         "Los Pinos, Cerro Colorado 04014",
         "Lunes a Domingo 05:30 - 21:00",
@@ -270,21 +270,21 @@ val gimnasios_lista: List<Gimnasio> = listOf(
 
     //Yanahuara
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.yanahuara_gimnasio_dynamic1,
         "Gimnasio Dynamic Gym",
         "Ca. Vinatea Reynoso #110, Yanahuara 04013",
         "Lunes a Domingo 06:00 - 22:30",
         "991541698"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.yanahuara_gimnasio_club1,
         "Gimnasio Club Gym",
         "Av. Emmel 04013",
         "Lunes a Domingo 06:00 - 22:00",
         "(054) 484940"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.yanahuara_gimnasio_madrid1,
         "DG Gym Madrid",
         "Av. Victor Andrés Belaunde 409, Arequipa 04013",
         "Lunes a Domingo 06:00 - 22:00",
@@ -293,14 +293,14 @@ val gimnasios_lista: List<Gimnasio> = listOf(
 
     //Socabaya
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.socabaya_gym_newline,
         "Gym New Line",
         "Av. Socabaya 402-424, JLByR 04012",
         "Lunes a Sábado 05:30 - 21:30",
         "984616484"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.socabaya_gilmar_gym,
         "Gilmar Gym",
         "Av. Perú 204, Arequipa 04009",
         "Lunes a Sábado 06:00 - 20:30",
@@ -309,21 +309,21 @@ val gimnasios_lista: List<Gimnasio> = listOf(
 
     //Paucarpata
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.paucarpata_gimnasio_revo1,
         "Gym Revo Sport",
         "Paucarpata 302, Arequipa 04001",
         "Lunes a Sábado 05:00 - 22:00",
         "(054) 201111"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.paucarpata_gimnasio_fire1,
         "Fire Gym",
         "Ca. Colombia con Honduras 100, Miguel Grau 4ta Etapa",
         "Lunes a Sábado 05:00 - 21:00",
         "951216782"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.paucarpata_gimnasio_ocon1,
         "Ocon Gym",
         "Arequipa 992, Paucarpat 04007",
         "Lunes a Sábado 05:00 - 22:00",
@@ -332,14 +332,14 @@ val gimnasios_lista: List<Gimnasio> = listOf(
 
     //JLByR
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.jlb_imperius_fitness,
         "Imperium Fitness",
         "Av. Pizarro 141, José Luis Bustamante y Rivero 04009",
         "Lunes a Sábado 05:00 - 22:30",
         "942605645"
     ),
     Gimnasio(
-        R.drawable.costa_ceviche,
+        R.drawable.jlb_club_gym,
         "Gimnasio Club Gym",
         "Av. Emmel con, Arequipa 04013",
         "Lunes a Sábado 06:00 - 22:00",

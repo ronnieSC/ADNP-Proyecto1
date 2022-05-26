@@ -48,13 +48,13 @@ val distrito_description_yanahuara = "3 gimnasios"
 
 //Aquí vendrá la lista
 val distritos_lista: List<Distrito> = listOf(
-    Distrito(R.drawable.costa, distrito_name_alto_selva_alegre, distrito_description_alto_selva_alegre),
-    Distrito(R.drawable.costa, distrito_name_cayma, distrito_description_cayma),
-    Distrito(R.drawable.costa, distrito_name_cerro_colorado, distrito_description_cerro_colorado),
-    Distrito(R.drawable.costa, distrito_name_jlb, distrito_description_jlb),
-    Distrito(R.drawable.costa, distrito_name_paucarpata, distrito_description_paucarpata),
-    Distrito(R.drawable.costa, distrito_name_socabaya, distrito_description_socabaya),
-    Distrito(R.drawable.costa, distrito_name_yanahuara, distrito_description_yanahuara),
+    Distrito(R.drawable.distrito_alto_selva_alegre, distrito_name_alto_selva_alegre, distrito_description_alto_selva_alegre),
+    Distrito(R.drawable.distrito_cayma, distrito_name_cayma, distrito_description_cayma),
+    Distrito(R.drawable.distrito_cerro_colorado, distrito_name_cerro_colorado, distrito_description_cerro_colorado),
+    Distrito(R.drawable.distrito_jlbyr, distrito_name_jlb, distrito_description_jlb),
+    Distrito(R.drawable.distrito_paucarpata, distrito_name_paucarpata, distrito_description_paucarpata),
+    Distrito(R.drawable.distrito_socabaya, distrito_name_socabaya, distrito_description_socabaya),
+    Distrito(R.drawable.distrito_yanahuara, distrito_name_yanahuara, distrito_description_yanahuara),
 )
 
 class DistritosActivity : ComponentActivity() {
@@ -66,7 +66,7 @@ class DistritosActivity : ComponentActivity() {
                 Column(modifier = Modifier.fillMaxSize()) {
                     //Material Design top app bar displays information and actions relating to the current screen.
                     TopAppBar(title = {
-                        Text("Platos Típicos")
+                        Text("Distritos y Gimnasios")
                     })
                     DistritoList(distritos_lista, this@DistritosActivity)
                 }
